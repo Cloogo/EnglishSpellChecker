@@ -1,0 +1,426 @@
+
+Apache OpenOffice Extensions
+Main menu
+
+    Search
+    Templates
+    Get Apache OpenOffice
+    Extensions Wiki
+
+Languages
+English
+
+    Dictionaries
+    Highest Rated
+    Most Popular
+    Most Recent
+
+US English Spell Checking Dictionary
+×
+Warning message
+This extension was not updated recently. It might not work with latest versions of OpenOffice.
+Primary tabs
+
+    View(active tab)
+    Releases
+
+Maintainer:
+	TSorbera
+Rating:
+	
+4.125
+Average: 4.1 (16 votes)
+
+Application:
+	OpenOffice.org
+Tags:
+	dictionary, extension, english, extension, spellchecker, extension, spell check, extension, dictionaries, extension, spell checker, extension, american, extension, american english, extension, en_US, extension, US english, extension, US, extension, USA, extension, USA english, extension
+Post date:
+	Wednesday, 29 October, 2008 - 18:01
+Statistics
+	Week: Not tracked - Month: Not tracked - Year: Not tracked - Timeline
+System Independent version - All releases
+Compatible with OpenOffice 4: Unknown
+User feedback:
+Compatible with OpenOffice 4.x?
+
+    up
+    0%
+    down
+    100%
+
+An English US (en_US, US English) dictionary for OOo 3.
+US English Spell Checking Dictionary
+
+Version 	Operating system 	Compatibility 	Release date 		
+1.0 	System Independent 	3.0, 3.1, 3.2, 3.3, 3.4 	29/10/2008 - 18:03 	
+	
+Comments
+Submitted by Anonymous (not verified) on 7 January, 2016 - 01:28
+Where can I get the plug-in
+
+Where can I get the plug-in only without FileOpenerPlus and all the other additions they want to package with it? Is this compatible with 4.x or is there another dictionary plug-in made specifically for 4.x?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 8 November, 2014 - 06:05
+Error with installation
+
+Open Office 4 4.1.1 was installed & used 2 times plus test. I saw in the upper right hand corner saying update. So i click on the update. It is a Extension Update. It is checked already it says English spelling & hyphen dictionaries & Thesaurus Version 2014.11.01 Browser based update. Can you send me a fresh install to my e-mail barneybear500@cox.net & tell me if it is necessary to install this update. Thank You Richard D, Papa
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 1 September, 2014 - 14:33
+Compatibility for version 4.1.1
+
+Will this extension be compatible with OO version 4.1.1 sometime in the near future?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 18 October, 2013 - 15:45
+FIXED!!!
+
+Thank you so much for this link! It fixed my spell check problem! No more squiggly lines!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 27 March, 2013 - 12:05
+english spellchecker
+
+Running 3.4.1
+Extension manager shows no dictionary. I downloaded the en_US.oxt. Invoked the "add" in the Extension manager. Extension manager label reads: Adding en_US.oxt". Popup titled extension manager advises "an error occured during file opening". (Note that the correction spelling is "occurred" [with 2 "r"s]".
+
+I downloaded the en_US.oxt twice. Same result.
+
+No further diagnostic info available.
+
+Recommendation?
+
+Regards,
+
+grNadpa
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 30 March, 2013 - 11:19
+resolved
+
+thanks to http://forum.openoffice.org/en/forum/viewtopic.php?f=15&t=54533
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 18 October, 2013 - 15:47
+FIXED!!!
+
+Thank you so much for this link! It fixed my spell check problem! No more squiggly lines!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 26 March, 2013 - 09:59
+I need help with Spellchecker
+
+Hi, I need help with the English spellchecker. I can't seem to get it to work, even though it is listed in my extension list as turned on, in the Open Office software itself. Appreciate the help!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 26 March, 2013 - 10:15
+Needing help with spellchecker
+
+It fixed it! I followed the instructions below that the other fellow had left(thank you very much), and it fixed the spellchecker and it is working fine. His instructions were: Spellchecker IS FIXED
+
+Yea, I struggled with this for quite some time too. It's pretty sad that Apache does not follow the forums and state a solution to this problem...But I did find a SOLUTION. You need to shut down AOO, kill the soffice.* processes, delete the user profiles and restart. Done! The user profiles can be found at c:\Users\xxxx\AppData\Roaming\OpenOffice.org . I simply deleted the entire OpenOffice.org folder.
+Finally!
+
+Thank you!!!!!!!!!!!!!1
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 19 December, 2012 - 07:41
+Help please.
+
+Please tell me where to free download english thesaurus synonymous file?
+I want this to for content writing.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 15 December, 2012 - 17:23
+Spellchecker not working
+
+I, too, am having trouble with OO spellcheck suddenly showing all words underlined (i.e., not in the dictionary). When I checked Options in Spellcheck, it appeared as though the English dictionary is there, but I downloaded it again, saved it as an .oxt in the Extensions Manager. It now shows up there (with the .oxt extension) and also in the Spellcheck Writing Aids (with the .oxt extension) as does the original US English dictionary. Any ideas as to why every word is allegedly misspelled, and the dictionary is not working>
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 15 January, 2013 - 02:43
+Spellchecker IS FIXED
+
+Yea, I struggled with this for quite some time too. It's pretty sad that Apache does not follow the forums and state a solution to this problem...But I did find a SOLUTION. You need to shut down AOO, kill the soffice.* processes, delete the user profiles and restart. Done! The user profiles can be found at c:\Users\xxxx\AppData\Roaming\OpenOffice.org . I simply deleted the entire OpenOffice.org folder.
+Finally!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 24 February, 2013 - 17:33
+Excellent hack
+
+Thanks userdww, that did the trick.
+
+For those of you with spelling checker problems - I was using OO 3.4.1. One day the automatic spelling checker was flagging everything as misspelled. My settings seem correct according to may online resources. I could change from English (US) to English (UK) and it worked! But when I switched back, everything was misspelled again.
+
+Note for those considering this fix - the directory you'll delete does have settings within. I immediately noticed that window positions, zooms setting withing documents and a number of other things disappeared.
+
+But... spelling is fixed. All the rest can be reset.
+
+-Bill
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 10 January, 2013 - 16:37
+Spellcheck not working
+
+My spell check in US English and German have both stopped working too and show all words as unknown. I have downloaded OO anew and the spell check but nothing. Zip! Apparently, OO Writer is now without any spell check in any language. Useless.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 9 December, 2012 - 12:48
+Spelling and Grammer not functioning
+
+I have seen several posts regarding a situation where the spelling check function has suddenly stopped. Mine has done the same and i have seen no viable solutions. I have attempted downloading the US English dictionary, but to no avail. I have been using AOO to write a book and been very pleased until now. Having every single word flagged is incorrect is annoying, distracting, and renders your product all but useless. As a further note, when I went to to APP 3.4.1, it caused major problems with my operating system. How can I get the dictionary installed so that can move forward?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 18 October, 2012 - 23:46
+Spell vs. spelling
+
+Might I ask why this discussion seems consistently to talk about the notion of a
+"spell" checking rather than a "spelling" check?
+
+We use spell checking in my coven, and I think it may have been used at
+Hogwarts. But as for verifying that words are correctly spelled, it seems more
+appropriate and correct to talk about their spelling.
+
+Pedantically,
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 8 August, 2012 - 06:35
+Why me??
+
+Hi,
+I've a french version of Apache Open Office and just wanted the US spellcheck. I downloaded it, it is in the file with my extensions but it doesn't show up in the linguistic settings of the Writer..
+Can you help me to get it working (or do i need to intall the US version of open office to get the english spellcheck??)
+blessings
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 11 September, 2012 - 22:55
+Solution
+
+Hi,
+
+I hope I can solve your problem (if it hasn't been already), I too have OpenOffice in French and was in the same situation as you are. To make it work, you have to close any OpenOffice documents opened and also close the Quickstarter of OpenOffice (which is in the box that opens when you click the up arrow in the taskbar). After that reopen OpenOffice and the dictionary should be available for selection. Let me know if it helped!
+
+Have a good day/evening/night
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 24 November, 2012 - 11:39
+Actually i had to desinstall
+
+Actually i had to desinstall openoffice and reinstall it so that the new language extension become active in the spelling check box. but thanks anyway
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 31 July, 2012 - 11:21
+Installation not working
+
+I have tried to install this extension because a virus wiped out all the words in my original file. But when I try to install it using the extensions manager I get "file does not exist" and nothing gets installed. I need to know how to manually install this dictionary. The auto-install (download) does the same exact thing.
+
+Fixed that problem, sort of. When I first install the extension, everything seems ok. But when I shut down the program and launch a previously written document, every single word shows as misspelled.
+This makes no sense to me.
+
+Can anyone help me?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 6 July, 2010 - 16:04
+pointless debate...
+
+pages and pages of useless arguing... nobody asked the question that puzzles me - what's the purpose of this extension? what does it offer that dictionary/spellchecker bundled with openoffice doesn't have?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 16 July, 2010 - 08:42
+English Dic
+
+If you install the English version of Open Office, this extension off course is quite useless.
+But please think of all those, who aren't English or American.
+I am from Germany, so I install the German version because I mostly write in German and need a Germen spell check.
+But sometimes I write in English or edit English subtitles. I am sure you understand, that a German spell chek in this case is quite useless.
+Therefor I am very happy, that I have found an English dic that will help me.
+
+I hope my answer was helpful for you....
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 16 July, 2010 - 09:34
+.
+
+it was helpful, thank you.
+
+i don't get why it isn't included either way - english version comes with spanish and french spell checker... whose brilliant idea was that german version (possibly others) doesn't need english spellchecker?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 12 March, 2010 - 13:07
+Thangsgiving
+
+Dear Ladies and Gentlemen!
+I thank you very much for en-US.oxt. It's a precious program. I have learned how to work with it. I must save with an English word. If I save in German than it's English program off. I had more times attempt it. Now I'm happy.
+Your faithfully Lothar Berg
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 10 February, 2010 - 18:04
+How can I edit this dictionary?
+
+I wish to train myself to stop using certain English words. So, I'd like to edit my dictionary so that OOo flags those words as misspelled.
+
+How can I edit the contents of this dictionary to remove some words? Or, do you have a source that I could get and build from?
+
+Thanks,
+
+Pat McGee
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 10 February, 2010 - 18:29
+Download and extract the
+
+Download and extract the extension file to a folder. (you might need to rename it to .zip, not .zip.oxt, for your archive program to recognize it)
+Open en_US.dic in a good text editor (Notepad will be hard to use because it won't see the newline breaks correctly, Wordpad should work).
+Delete the words you want to. (you don't need to worry too much about the letters after the / after the words; the legend is in en_US.aff if you care)
+Save the file.
+Put all of the files in a .zip archive then rename it to have a .oxt extension (not .oxt.zip).
+Install the new extension into OOo.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 30 November, 2009 - 22:02
+how to move my dictionary to a new computer
+
+I have a Vista operating system and am using OpenOffice 3.
+I am using the dictionaries that came with my initial OpenOffice installation. I have added thousands of archaic and Latin words to the spell checker. What are the locations and file names I need to put these dictionaries on another machine I am going to be using? I have found en_US.dic and en_US.aff in the uno_packages directory under AppData.....\OpenOffice.org. I also found a standard.dic under wordbook. It doesn't look like either of these contain all the words I've been adding to my dictionary. Any help would be appreciated, thanks.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 29 January, 2010 - 14:19
+archaic and Latin words
+
+I would appreciate a copy of that word list.
+Any tips on installing it would also be much appreciated.
+Thanks
+Ed Wright
+edw at thewrightsplace dot us
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 20 November, 2009 - 04:23
+DICTIONARY
+
+CAN I HAVE IN INDONESIAN DICTIONARY FOR MY CHILD IN THE APPLICATION OOo4Kids. Thank's
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 30 March, 2009 - 16:06
+Description US dictionary extension
+
+Hello,
+Thank you for this hard work!
+
+The description does not mention which wordlist is used to compile this dictionary or who to contact when one would find words to be updated.
+The description is yet a bit limited. Who can I contact for more information?
+Can I contribute with writing a description?
+
+PS: it seems that everyone knows what 'American English' or 'US English' generally refers to. So perhaps it does it exists, although there is not official institute that maintains the rights to define what it is and what it is not.
+
+Thank you!
+Michael
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 13 February, 2009 - 04:26
+Ha! This debate is hilarious...
+
+...especially considering the fact that there IS NO single "correct" form of U.S. English - the U.S. government, unlike those of many European countries, does not legislate the proper use of its language (in fact, U.S. English isn't even its language, as we have no official language; legislative documents are just as valid in Aramaic, for example, as they are in English). "Correct" usage in U.S. English is determined independently by anyone who can get his/her dictionary/grammar guide published and widely accepted (though the - currently - major players in the field tend to base their definitions on trends in institutional academic writing, listing "incorrect" common usage as slang, neologism, colloquialism, vernacular, etc.). I make up new words all the time using extant morphemes, and they're perfectly correct as long as my audience (in my case usually my professors, but occasionally the public at large) accepts them as such. Sorry to all of you linguistic prescriptionists out there, but the increasingly rapid pace of information transfer is paralleled by an increasingly rapid pace of language-shift. This topic, like so many highly politically-charged topics, is moot, since "correctness" is ultimately determined by intelligibility, and intelligibility is by definition governed by usage.
+
+As an interesting side note, the word "moot" originally meant "subject to debate" but now most commonly means "irrelevant to practice". I find this of interest because that which is most-subject to debate is often that which has direct implication on practical matters.
+
+Anyway, as an adopted ISO code, en_US is probably most correct.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 8 May, 2009 - 20:27
+constitution
+
+You studied linguistics didn't you. Look, most people who come to this site don't know the jargon of someone with a Linguistics degree or someone who listens to John McWharter. English is a continum of dialects, as most languages are. The fact that we have a US English spell checker to suggest corrections for the way words are most commonly and acceptably spelled in the United States is good for those users. I could just as easily publish a "more correct" IPA spell checker to force people to spell the way the actually sound that that would not be useful.
+
+As far as some states go, there are some with English as the "official" language but at the Federal Level there can never be an "official" language because of the First Amendment, and really that is a good thing. The day may come when most "Americans" no longer speak English. (I am pulling for Houma myself but French or Spanish would do just as well.) Freedom of Speech, which originally was intended as the freedom to speak the TRUTH, now just means the freedom to lie as much as you want and actually speaking the truth in the US is considered hate speech. (as in you can't say that murder is murder because the person who did is it a poor teenage girl). If the US has any integrity at all then it needs to realize that Freedom of Speech also was intended to mean the Freedom to Speak whatever Language you want. Just read the Federalist Papers and it says so right there.
+
+It can not be denied that the various English speakers around the world have pushed the language almost to the point of being different languages that are unintelligible to each other. That is normal. English is a funny language anyway. It shows signs of having had a huge group of Semitic pidgin speakers at one point, then is went through Grimms Law and then it dropped Gender markers and declensions. The funniest thing is that it picked up "do support", probably from a Celtic language. This makes English a very interesting language, but also a very difficult language and one that is ill suited for the International standard as it is well on its way to meltdown and fracture. But again that is normal. English will not be the dominate language for much longer. Something else will come along and take English's place the same as English displaced French, French displaced Latin, and Latin displaced Greek, which it self had displaced Syriac. Lingua Francas come and go so please no tears when it is English's turn to fall. That is just par for the course as we move into the future.
+
+I just hope it isn't Chinese that comes next, that is a really hard language to learn. And just think, Manderin is the "easy" language in China compared to Cantanese.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 21 March, 2009 - 07:00
+Actually
+
+Actually, we do have a national language, and it is English. No, I am not just spouting uneducated nonsense, they voted it in last year or the year before. :P Prior to that the only official language on any books was actually German. :P
+
+As for proper, that varries from generation to generation. Not sure I can argue against your point there. ^^;;
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 2 January, 2009 - 07:18
+Where's the British English dictionary for OOo 3.0?
+
+I came across this US English dictionary in the search for extensions. I also came across an Australian dictionary. But where's the British English dictionary? Does one exist for OOo 3.0?
+
+I haven't tried this US dictionary yet; does it include British?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 13 February, 2009 - 03:57
+There's a distribution of the OED up
+
+It's ported from the previous version
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 2 January, 2009 - 07:53
+No, this US dictionary
+
+No, this US dictionary doesn't include British English. I don't know if one exists yet.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 24 November, 2012 - 11:41
+One does exist, you can find
+
+One does exist, you can find it here http://extensions.openoffice.org/fr/project/dict-en-fixed enjoy :)
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 23 December, 2008 - 20:21
+Thanks!
+
+I've been searching for it about 2 hours. Finally, i was about to give up but i've found this link. Thanks a lot!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 4 January, 2010 - 20:19
+Where is the link?
+
+Please can we put the link for the British English dictionary in the dictionary page? Please?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 28 November, 2008 - 18:41
+Great dictionary! Thanks!!
+
+Great dictionary! Thanks!!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 24 November, 2008 - 12:34
+this doesn't work
+
+it doesn't work don't download
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 14 November, 2008 - 07:09
+American English
+
+There is no such thing as American English. It's just English!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 9 December, 2013 - 10:12
+American English
+
+The English in the United States and the English spoken in the United Kingdom are not one in the same. The words, although similar, can be very, very different and mean totally different things! They also tend to be spelled differently as well. English in the UK is much purer compared to what we have in the U.S. which is pretty much "Walmart" grade--a reflection on those that usually shop at such a place--most who could not read or write themselves out of a paper bag because they have been so dumbed down!
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 28 January, 2014 - 21:15
+ASDA is owned by Walmart. I
+
+ASDA is owned by Walmart. I hope you don't shop there or you also could be 'dumbed down'. You can say what you want but I think you should think about how people speak in East London. They are the most uneducated group of people I have ever seen/met. I lived in both the UK and the US and I have to admit Londoners could be pretty sophisticated and sound very lovely when they speak, but some people just need to re-learn how to speak their own language. I'm not defending so called 'Americans' either. They can sound intelligent or stupid. It really depends on who you meet. And obviously when you went to Walmart, you met some pretty stupid people. I also think you went to a poor part of America, because my friend in America ride their Porches to Walmart. They also graduated from Cornell and UPenn. If you think Oxford and Cambridge student are stupid and 'so dumbed down', I have no further comment other than you must be fuckin stupid.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 14 November, 2008 - 07:19
+Re: American English
+
+Well, sorry to disagree with you, but there is. It's a dialect of English. http://en.wikipedia.org/wiki/American_English
+If someone had the wrong dialect installed, things like color/colour could be wrong for where they live (e.g. this says colour is wrong and suggests color, so for a British person it would incorrectly tell him colour is wrong every time he types it).
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 16 November, 2008 - 08:10
+Quite right
+
+English is the language of England, the country of my birth and heritage.
+Leaving aside the growing dominance of Spanish, 'American English' is that which can it be argued hardly exists as 'America' is a continent, not a country. Perhaps calling your bastardisation of my language 'USA English' might help, leaving plain 'English' to refer to my language?
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 26 September, 2013 - 23:59
+Yeah, I know I'm a little late to this conversation
+
+Regardless, were trying to sound like a pompous, pretentious tool? Or, are you just a natural at it? Honestly, I don't think you could make your comment anymore antagonistic and petty if you tried. " YOUR bastardisation of MY language". Are you kidding me? Are you in Junior High or something? Let's go ahead and get this cleared up before you lose focus and go back to doodling with crayons and magic markers: 1. The OP did not coin the term, nor did they "bastardize" anything. This was established and accepted by people with a lot more knowledge on the subject than anyone on this comment thread. Which brings me to... 2. Since the English language is yours , why don't we just get on the horn and start letting the people at Webster's know that they need to get the okay from you before they make any changes to the next edition?
+I've already spent more time and attention than was necessary on this reply. But, in my defense, the arrogance, ignorance and arguably bigotry in your comment was just begging for someone to come along and correct you. I'm glad to see that I wasn't the only one. The sad part is that it likely won't even make a dent. People who say and do things like your little temper tantrum here, rarely admit they're wrong or even see that they are.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 8 May, 2009 - 20:40
+This is why
+
+hey English guy, for your information, the Bri'ish island is more than just England. You do have those other places outside your boarders or didn't you know.
+
+Don't you realize that comments like this are exactly why people don't like you guys with your "English Only" stuff that makes you come off as Racist. But, yah you can have English if you want it. I don't speak English, though that is what others want to call it. I speak a much better Language, a decent language. I also happen to speak a second language that kinda sounds like the language on you little island there but you don't own it, you don't control it and for that matter why would you even come here to the US-EN spell checker page to flame! Obviously it is not your language so just stay away and do your own thing.
+
+I will say this though, it will be funny when most a the US speaks Spanish and support for English services and the prominence of English goes down in the world. These things are only propped up by the US economy and if that Economy abandons "English" then your little island will no longer benefit from all the work done in the New World for free. You all will have to start to pay your own way to develop your own language tools and no one will want to learn your language anymore, which will have an effect on your economy. But that is ok, it is fair and it is what you appear to want. Personally, I can't wait for Spanish to take over, then people will go to live in Spain of their "learning abroad" trips. That suites me fine.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 28 November, 2008 - 18:42
+Unbelievable!
+
+Clearly, "Englishman" has no idea what he is talking about.
+I'm a linguist, and for more than 50 years now, American English has been considered one of the official standard varieties of the English language - among British English, Australian English, South African English, etc.
+American English is not just a "slang" version of the English language, but it is a separate and official dialect of English! Language shift is the keyword here. British English has changed a lot as well since 1776! However, I don't wanna bore you with linguistic details here, as you seem to have a fixed (though not informed) "opinion" about this matter.
+
+Oh, and don't even start! I'm neither American, nor English, so I'm not subjective here. Just seeing this from a scientist's point of view.
+Log in or register to post comments
+Submitted by Anonymous (not verified) on 17 November, 2008 - 19:06
+Some are still upset, since 1776
+
+In reply to:"English is the language of England, the country of my birth and heritage.
+Leaving aside the growing dominance of Spanish, 'American English' is that which can it be argued hardly exists as 'America' is a continent, not a country. Perhaps calling your bastardisation of my language 'USA English' might help, leaving plain 'English' to refer to my language?"
+
+Reply: I am an American, Born on the "North American" Continent, and in the Country of "The United States of America" also known around the world as "America." The proper name for our language is "American English" and here in the U.S.A (America), we refer to your language as "British English," when being polite. The only "Bastardization " is your incorrect twist referencing our country and the continent. The Continent America is actually the "America's" which are North and South America. And when people speak of going to "America" it is "The United States of America." Mini_Geek is correct before changing the name, although en_US is okay too. If it titled "English" only, then American's and Britain's would mistaken it for their own language. I gather some British are still upset since 1776.
+Doc_America
+Log in or register to post comments
+
+    1
+    2
+    next
+
+Apache and the Apache feather logos are trademarks of The Apache Software Foundation. OpenOffice.org and the seagull logo are registered trademarks of The Apache Software Foundation. Other names appearing on the site may be trademarks of their respective owners. Contact us
+Follow us
+

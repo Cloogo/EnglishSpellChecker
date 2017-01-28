@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+SUBDIRS=header src
+EXTRA_DIST=res

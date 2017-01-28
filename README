@@ -1,0 +1,8 @@
+An English spellchecker.
+
+An exercise on how to use hashtable and part of my libraries running on Linux OS.
+
+Usage:
+./configure
+make install
+SpellChecker res/testdata/english
